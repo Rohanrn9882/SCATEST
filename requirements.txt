@@ -1,0 +1,4 @@
+snowflake-connector-python==1.4.5
+mechanicalsoup==0.0.2
+trufflehog==1.0.0
+datarobot==2.0.32
